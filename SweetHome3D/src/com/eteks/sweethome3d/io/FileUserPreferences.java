@@ -117,6 +117,7 @@ public class FileUserPreferences extends UserPreferences {
   private static final String FURNITURE_WIDTH                           = "furnitureWidth#";
   private static final String FURNITURE_DEPTH                           = "furnitureDepth#";
   private static final String FURNITURE_HEIGHT                          = "furnitureHeight#";
+  private static final String FURNITURE_VOLUME                          = "furnitureVolume#";
   private static final String FURNITURE_MOVABLE                         = "furnitureMovable#";
   private static final String FURNITURE_DOOR_OR_WINDOW                  = "furnitureDoorOrWindow#";
   private static final String FURNITURE_ELEVATION                       = "furnitureElevation#";
